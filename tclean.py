@@ -3,6 +3,13 @@
 #
 # Created by jim on 03/02/2021
 
+'''
+
+Small useful program to remove control chars from files,
+commissioned by MB to help strip out unnecessary Chars
+
+'''
+
 # imports
 import sys
 
